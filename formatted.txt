@@ -1,0 +1,6 @@
+ID			Name		GPA
+123		 Jessica	     3.200000      
+910		 Alice	     3.500000      
+470		 Daniel	     2.900000      
+731		 Jonathan	     3.600000      
+314		 Nicole	     3.100000      
